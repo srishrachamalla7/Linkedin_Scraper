@@ -1,0 +1,9 @@
+venv
+__pycache__/
+cookies.pkl
+Readme.pdf
+Readme.txt
+scraping_log.log
+test.py
+screenshots_vsantosh4u
+connections.xlsx
